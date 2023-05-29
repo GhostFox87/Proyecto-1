@@ -1,3 +1,30 @@
 body {
     background-color: #fafafa;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.nunito-font {
+    font-family: 'Nunito', sans-serif;
+}
+.roboto-font {
+    font-family: 'Roboto Slab', serif;
+}
+.playfair-font {
+    font-family: 'Playfair', serif;
+}
+.top-menu {
+    background-color: #001950;
+    color: white;
+    padding: 10px 0 10px 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.top-menu-options {
+    margin-left: 15px;
+}
+
+.info-header {
+    margin-top: 50px;
 }
